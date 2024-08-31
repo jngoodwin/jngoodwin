@@ -1,8 +1,12 @@
 ## Hi, I'm Jonathan
 
 👨🏾‍💻Have previous professional work experience as a Product Support Engineer, where I provided solutions to a variety of products using SQL, Java, Python, and data frameworks <br/>
-👨🏾‍🎓Studied at National University and San Diego State Univerisity where I obtained degrees in Computer Science and Information Systems<br/>
+👨🏾‍🎓Studied at [National University](https://www.nu.edu/degrees/engineering-data-and-computer-sciences/programs/master-of-science-in-computer-science/#overview) and [San Diego State Univerisity](https://www.sdsu.edu/programs/information-systems) where I obtained degrees in Computer Science and Information Systems<br/>
 Currently learning about Data Engineering and Data Analytics so that I can move into a Data Engineering role.<br/>
+
+<!-- GitHub stats from https://github.com/anuraghazra/github-redme-stats -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jngoodwin&show_icons=true)<br/>
+(https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **jngoodwin/jngoodwin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
