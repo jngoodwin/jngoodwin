@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi, I'm Jonathan
+
+👨🏾‍💻Have previous professional work experience as a Product Support Engineer, where I provided solutions to a variety of products using SQL, Java, Python, and data frameworks <br/>
+👨🏾‍🎓Studied at National University and San Diego State Univerisity where I obtained degrees in Computer Science and Information Systems<br/>
+Currently learning about Data Engineering and Data Analytics so that I can move into a Data Engineering role.<br/>
 
 <!--
 **jngoodwin/jngoodwin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
