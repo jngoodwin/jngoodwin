@@ -5,8 +5,8 @@
 Currently learning about Data Engineering and Data Analytics so that I can move into a Data Engineering role.<br/>
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-redme-stats -->
-<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jngoodwin&show_icons=true)<br/>
-(https://github.com/anuraghazra/github-readme-stats)-->
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jngoodwin&show_icons=true)<br/>
+(https://github.com/anuraghazra/github-readme-stats) -->
 
 
 ## 🌐 Socials
